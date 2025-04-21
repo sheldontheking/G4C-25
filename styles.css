@@ -13,8 +13,6 @@ body * {
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
-    margin: 0;
-    padding: 0;
   }
 div {
   background: linear-gradient(to bottom right, steelblue, navy);
